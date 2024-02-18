@@ -1,0 +1,126 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Ed Sheeran",
+        "image": "url_to_image",
+        "album"
+          {
+            "Year": 2017,
+            "title": "÷ (Divide)",
+            "songs": [
+              {
+                "id": 1001,
+                "title": "I Don't Care",
+                "lyrics": "I'm at a party I don't wanna be at,
+                And I don't ever wear a suit and tie, "yeah\\n"
+                Wondering if I could sneak out the back
+                Nobody's even looking me in my eyes
+                Then you take my hand
+                Finish my drink, say, "Shall we dance?" (hell, yeah)
+                You know I love you, did I ever tell you?
+                You make it better like that",
+                "audioPreview": "https://www.boomplay.com/songs/7039880?srModel=COPYLINK&srList=WEB"
+              },
+              {
+                "id": 1002,
+                "title": "Shape Of You",
+                "lyrics": "The club isn't the best place to find a lover
+                So the bar is where I go
+                Me and my friends at the table doing shots
+                Drinking fast and then we talk slow
+                Come over and start up a conversation with just me
+                And trust me I'll give it a chance now
+                Take my hand, stop, put Van the Man on the jukebox
+                And then we start to dance, and now I'm singing like",
+                "audioPreview": "https://www.boomplay.com/songs/4665799?from=search&srModel=COPYLINK&srList=WEB"
+              },
+              
+          {
+            "Year": 2014,
+            "title": "x (Multiply)",
+            "songs": [
+              {
+                "id": 1003,
+                "title": "Sing",
+                "lyrics": "It's late in the evening
+                Glass on the side
+                I've been sat with you
+                For most of the night
+                Ignorin' everybody here
+                We wish they would disappear
+                So maybe we could get down now
+                I don't wanna know
+                If you're gettin' ahead of the program
+                I want you to be mine, lady
+                To hold your body close
+                Take another step into the no-man's land
+                And for the longest time, lady",
+                "audioPreview": "https://www.boomplay.com/songs/4709044?srModel=COPYLINK&srList=WEB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "The Weeknd",
+        "image": "url_to_image",
+        "albums": [
+          {
+            "Year": 2016,
+            "title": "Starboy",
+            "songs": [
+              {
+                "id": 1001,
+                "title": "Starboy",
+                "lyrics": "I'm tryna put you in the worst mood, ah
+                P1 cleaner than your church shoes, ah
+                Milli point two just to hurt you, ah
+                All red Lamb' just to tease you, ah
+                None of these toys on lease too, ah
+                Made your whole year in a week too, yah
+                Main bitch outta your league too, ah
+                Side bitch outta your league too, ah",
+                "audioPreview": "url_to_audio_preview1"
+              },
+              {
+                "id": 1002,
+                "title": "I feel It Coming",
+                "lyrics": "Yeah, ah
+                Tell me what you really like
+                Baby I can take my time
+                We don't ever have to fight
+                Just take it step-by-step
+                I can see it in your eyes
+                'Cause they never tell me lies
+                I can feel that body shake
+                And the heat between your legs",
+                "audioPreview": "https://www.boomplay.com/songs/119641653?srModel=COPYLINK&srList=WEB"
+              },
+          
+        ]
+      }
+      {
+        "Year": 2020,
+          "title": "After Hours",
+          "songs": [
+            {
+              "id": 1003,
+              "title": "Save Your Tears",
+              "lyrics": "Ooh
+              Na-na, yeah
+              I saw you dancing in a crowded room (uh)
+              You look so happy when I'm not with you
+              But then you saw me, caught you by surprise
+              A single teardrop falling from your eye
+              I don't know why I run away
+              I make you cry when I run away",
+              "audioPreview": "https://www.boomplay.com/songs/53572189?srModel=COPYLINK&srList=WEB"
+            }
+          ]
+      }
+
+    ]
+  }
+  

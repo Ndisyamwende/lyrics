@@ -1,0 +1,11 @@
+/* app.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your existing styles below */
+body {
+  background-color: #f0f0f0;
+}
+
+/* ... */
