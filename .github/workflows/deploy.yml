@@ -1,9 +1,9 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy
 
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 jobs:
   build:
@@ -34,5 +34,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
+            ref: main
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./build
