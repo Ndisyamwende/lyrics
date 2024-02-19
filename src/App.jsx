@@ -29,26 +29,32 @@
 
 //export default App;
 
+
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import  RegisterAndLogin  from './components/RegisterAndLogin';
+import RegisterAndLogin from './components/RegisterAndLogin';
 import Home from "./components/Home"
 import ForgotPassword from "./components/ForgotPassword";
 import Lyrics from "./components/Lyrics";
 import "./App.css";
+import { ThemeProvider } from './components/ThemeContext'; 
 
-function App(){
-    return(
-        <BrowserRouter>
-            <div>
-                <Routes>
-                    <Route path="/" element={<RegisterAndLogin/>} />
-                    <Route path="/home" element={<Home/>} />
-                    <Route path="/reset" element={<ForgotPassword/>} />
-                    <Route path="/lyrics" element={<Lyrics/>} />
-                </Routes>
-            </div>
-        </BrowserRouter>
-    )
+function App() {
+  return (
+    <ThemeProvider>
+      
+      <BrowserRouter>
+        <div className="App">
+          <Routes>
+            <Route path="/" element={<RegisterAndLogin />} />
+            <Route path="/home" element={<Home />} />
+            <Route path="/reset" element={<ForgotPassword />} />
+            <Route path="/lyrics" element={<Lyrics />} />
+          </Routes>
+        </div>
+      </BrowserRouter>
+    </ThemeProvider>
+  );
 }
+
 export default App;

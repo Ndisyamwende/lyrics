@@ -52,7 +52,7 @@ function RegisterAndLogin() {
       height: '100vh',
     }}
     >
-      <div className="">
+      <div className="w-full max-w-md p-4 bg-white rounded-md">
         <div className="mb-8 flex justify-between items-center">
           <div
             className={`cursor-pointer py-2 ${
